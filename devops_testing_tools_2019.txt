@@ -1,0 +1,197 @@
+Top 15 DevOps Testing Tools in 2019 
+
+There are a lot of open source tools and testing frameworks available for DevOps. These frameworks assist organizations with their configuration, integration, and delivery management needs. It helps them save time and automating the entire testing process. Here is the list of best DevOps testing tool, features and download links.
+1) Ranorex
+ 
+Ranorex Webtestit is a lightweight IDE optimized for building UI web tests with Selenium or Protractor. Eliminate flaky, brittle tests and reduce maintenance with optimized workflows and built-in-best practices. 
+
+Key Features: 
+Scaffolds your test framework
+Automatically applies best practices such as the Page Object pattern
+Instantly generates UI selectors and screenshots using the Ranorex Selocity extension for the Chrome DevTools
+Produces robust and maintainable test suites
+Integrates with tools such as Jira for defect tracking, CI servers such as VSTS and Jenkins, and TestRail test case management.
+
+2) Experitest
+ 
+Experitest is the leading platform for Mobile App & Cross-Browser Testing. 
+
+Key Features: 
+Create & run tests on 2,000+ real browsers and mobile devices
+Fully compatible with open source tools, including Appium & Selenium
+Develop new Appium tests or execute existing projects
+Enjoy Enterprise-grade scalability, security and visibility
+Large scale test execution
+Run automated tests and projects developed in any IDE and any testing framework
+Integrates with CI tools like Jenkins, TeamCity & more
+ISO & SOC2 certified global datacenters for secure testing
+
+3) TestRail
+ 
+TestRail is scalable, customizable, web-based test case management. 
+Efficiently manage manual and automated test cases, plans, and runs. 
+Get real-time insights into testing progress with informative dashboards, metrics and activity reports. 
+Boost efficiency with milestones, personal to-do lists and email notifications.
+Install on your own server or choose our cloud-based/SaaS solution. 
+Enterprise edition designed for large teams & mission-critical projects.
+Integrate with tools in your CI/CD/DevOps pipeline including JIRA, Bugzilla, Jenkins, TFS and more.
+
+4) QuerySurge
+ 
+QuerySurge is the smart data testing solution that is the first-of-its-kind full DevOps solution for continuous data testing. 
+
+Key Features 
+Robust API with 60+ calls
+Seamlessly integrates into the DevOps pipeline for continuous testing
+Verifies large amounts of data quickly
+Validates difficult transformation rules between multiple source and target systems 
+Detects requirements and code changes, updates tests accordingly and alerts team members of said changes
+Provides detailed data intelligence & data analytics 
+
+5) Jenkins:
+ 
+Jenkins is an open-source DevOps testing tool. It can be used to automate all types of tasks such as building, testing, and deploying software. This tool allows developers to quickly find and solve defects in their code base to automate testing of their builds. 
+
+Features: 
+Provides support to scale out to a large number of nodes and distribute the workload equally
+Compatible with all OS and versions of Linux, Mac OS or Windows
+It offers easy installation as Jenkins comes as a WAR file. All user needs to do is to drop WAR into your JEE container and your setup up ready to run. 
+Jenkins can be easily set-up and configured with the help of its web interface
+It's can easily distribute work across several machines
+Download link: https://jenkins.io/download/
+
+6) Bamboo:
+ 
+Bamboo is a Continues Integration tool which also used for DevOps testing. It performs the automatic build, test, and releases in a single place. It supports many technologies and languages like Ducker, Git, SVN, Mercurial, and Amazon S3 buckets. 
+
+Features: 
+Setting up Bamboo is pretty simple
+Run parallel batches tests
+Per-environment permissions feature allows developers and QA to deploy to their environments
+It can trigger builds based on changes detected in the repository, push notifications from Bitbucket
+Download link: https://www.atlassian.com/software/bamboo 
+7) Jmeter:
+ 
+Apache JMeter is an open source load testing tool. It is designed to measure the performance of websites. This load testing tool can be used in DevOps methodology. 
+Features: 
+JMeter allows performing load and performance test for various server types.
+This load testing tool store its test plans in XML format which allows users to generate the test plan using a text editor.
+The tool can be used to perform automated and functional testing of the applications.
+Down load link: http://jmeter.apache.org/download_jmeter.cgi 
+8) Selenium:
+ 
+Selenium is the most popular automated testing tool. It specifically designed to support automation testing of a wide range of browsers. 
+Features: 
+Support for parallel test execution reduces the time taken in test execution
+Selenium needs very lesser resources when compared to other testing tools. 
+Test cases prepared using this testing tool can be executed on any OS 
+It supports popular programming languages like Java, Python, C#, Perl, PHP, and JavaScript.
+Download Link: http://www.seleniumhq.org/download/ 
+9) Appium:
+ 
+Appium is an open source automation tool for mobile applications. It allows users to test all kind of native, mobile, web, and hybrid apps. It also supports the automated tests on emulators and simulators. It is actively used in DevOps process. 
+Features: 
+Easy setup process. 
+It is a simple application which needs a very little memory of for test process. 
+Testing Native apps do not need SDK. It offers standard automation APIs which can be used on for all types of platforms. 
+Download Link: http://appium.io/ 
+10) SoapUI: 
+ 
+SoapUI is a cross-platform free open source API testing tool for SOAP and REST. It is widely used for Devops testing tool to perform functional and load testing on API.
+
+Features: 
+The GUI of the software is easy to handle and use 
+Vulnerability testing feature helps to secure website from hackers and viruses.
+It is possible to do the detailed analysis using its reporting feature. 
+SQL Injection feature provides some standard SQL queries and methods to identify the weak areas of the application.
+Download Link: https://www.soapui.org/downloads/download-soapui-pro-trial.html 
+11) CruiseControl:
+ 
+CruiseControl is a Continuous Integration Tool. Its web interface provides details of the current and previous builds. It also provides support for Remote Management. 
+Features: 
+Integration with different Source Control systems like csv, svn, git, hg, perforce, clearcase, filesystem, etc.
+It allows building multiple projects on single server
+It allows seamless Integration with other external tools like NAnt, NDepend, NUnit, MBUnit and Visual Studio
+Download link: http://cruisecontrol.sourceforge.net/download.html 
+12) Vagrant: 
+ 
+Vagrant is a DevOps testing tool. It used for building and managing virtual machine environments in a single workflow. It offers easy-to-use workflow and focuses on automation. It also reduces development environment setup time and increases production parity. 
+Features: 
+Simple, easy to use, and powerful tool 
+Vagrant integrates with existing configuration management tools like Chef, Puppet, Ansible, or Salt
+Vagrant works seamlessly on as OS Mac, Linux, and Windows
+No complicated setup process only download and install 
+Create a single file for projects for describing the type of machine and software that users want to install
+Download link: https://www.vagrantup.com/downloads.html 
+13) PagerDuty:
+ 
+PagerDuty is a DevOps tool that helps businesses to enhance their brand reputation. It is an incident management solution supporting CI strategy. This DevOps testing tool helps teams to deliver high-performing apps. 
+Key Features: 
+Provide Real-time alerts
+Reliable & Rich Alerting facility 
+Event Grouping & Enrichment
+Gain visibility into critical systems and applications
+Easily detect and resolve incidents from development through production
+It offers Real-Time Collaboration System & User Reporting
+It supports Platform Extensibility
+It allows scheduling & Automated Escalations
+Full-stack visibility across development and production environments
+Event intelligence for actionable insights
+Download link: https://www.pagerduty.com/ 
+14) Snort:
+ 
+Snort is powerful free, open-source tool that helps in the detection of intruders. It also highlights malicious attacks against the system. It allows real-time traffic analysis and packet logging. 
+Key Features: 
+Performs protocol analysis and content searching 
+It allows signature-based detection of attacks by analysing packets
+It offers real-time traffic analysis, packet logging detects, buffer overflows, etc.
+Download link: https://www.snort.org/downloads 
+
+15) Docker:
+
+Docker is a DevOps technology suite. It allows DevOps teams to build, ship, and run distributed applications. This tool allows users to assemble apps from components and work collaboratively. This open source platform for managing containers of an app as a single group. 
+Key Features: 
+CaaS Ready platform running with built in orchestration
+Flexible image management with a private registry to store and manage images and configure image caches
+Isolates apps in containers to eliminate conflicts for enhancing security
+Download link: https://store.docker.com/editions/enterprise/docker-ee-trial 
+16) Stackify Retrace:
+ 
+Stackify is a lightweight DevOps testing tool. It shows real-time logs, errors queries, and more directly into the workstation. It is an ideal solution for intelligent orchestration for the software-defined data center. 
+Key Features: 
+Detailed trace of all types of web request
+Provides an instant feedback loop to check what .NET or Java web apps are doing
+Flexible image management with a private registry to store and manage images. It provides secure access and configure image caches
+Secure multi tenancy with granular Role Based Access Control and support for LDAP/AD integration
+Docker Certified Plugins and Containers provide tested, certified and supported solutions
+Download link: https://saltstack.com/saltstack-downloads/ 
+17) Puppet Enterprise:
+ 
+Puppet enterprise tool eliminates manual work for software delivery process. It helps developer to deliver great software rapidly 
+Features: 
+Puppet enterprise tool eliminates manual work for software delivery process. It helps developer to deliver great software rapidly
+Model and manage your entire environment
+Intelligent orchestration and visual workflows
+Real-time context-aware reporting
+Define and continually enforce infrastructure 
+It inspects and reports on packages running across infrastructure
+Desired state conflict detection and remediation
+Download link: https://puppet.com/download-puppet-enterprise 
+18) UpGuard:
+ 
+UpGuard analyzes data about the networks to the device in a single numerical value. It gives a quick sense of security risk. 
+Features: 
+UpGuard helps businesses around the world to gain visibility into their technology
+This DevOps tool allows increasing in speed of software delivery. It is accomplished through the automation of numbers of processes and technologies.
+It allows users to trust a third-party with sensitive data
+The procedures used to govern assets are as important as the configurations themselves
+Download link: https://www.upguard.com/demo 
+19) AppVerify
+ 
+AppVerify is the continuous testing solution designed for business applications. AppVerify allows you to test the entire business flow, including all third-party apps, without adding plugins or writing a single line of code. It facilitates continuous testing for Agile and DevOps Teams. 
+Features: 
+Test any application by reproducing the same user experience from all your access points: Thin, fat clients, and web portals
+AppVerify replicates the users’ interactions with your application and gives you valuable metrics about the end users’ experience including screenshots of failures. 
+Scripts are created automatically when you use your application and can be easily edited without coding. 
+They can then be seamlessly applied to performance testing and application monitoring modules available. 
+Download link: https://www.nrgglobal.com/regression-testing-appverify-download
